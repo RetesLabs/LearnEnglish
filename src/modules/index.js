@@ -12,6 +12,7 @@ import { patternsMaterialsModule } from './patternsMaterials';
 import { presentPastSimpleModule } from './presentPastSimple';
 import { phrasesModule } from './phrases';
 import { unaDeudaModule } from './unaDeuda';
+import { businessMeetingPhrasesModule } from './businessMeetingPhrases';
 
 export const MODULES = [
   adjectivesModule,
@@ -23,4 +24,5 @@ export const MODULES = [
   presentPastSimpleModule,
   phrasesModule,
   unaDeudaModule,
+  businessMeetingPhrasesModule,
 ];
